@@ -51,6 +51,10 @@ The project is organized into the following main directories and files:
     * `mipmap`: Launcher icons for different screen resolutions.
 
 ## How to use ##
+When opening the application, a login screen is displayed, with the option to 'remember' so that the session remains open the next time the application is opened. The user can log out, which means that they will have to log in again. In the current version, the functionality to register new users is not implemented, only the user 'Olivia' with password '1234Abc' is available.
 
+On the main screen of the application, there is a search engine that will return a list of recipes from an external API. The user can mark recipes as favorites, these will appear in the favorites section, and they can also remove recipes from their favorites. Recipes can be shared outside the application, for example by email.
+
+The application also has welcome notifications when logging in.
 
 
